@@ -1,0 +1,1 @@
+file,speaker,topic_code,duration_sec,sample_rate,channels,bit_depth,peak_dbfs,clip_pct,speech_level_dbfs,noise_floor_dbfs,snr_db,auto_label,auto_issues,clear,other_voice,cut_off,final_label,notes,reviewer

@@ -12,7 +12,7 @@ evaluate a Sundanese speech recognition system in Phase 2.
 | Topics | Introduction, Daily, Family, Food, Work/Education, Travel, Culture (at least 4 per speaker) |
 | Duration | 117.4 minutes in 51 files (about 10-15 minutes per speaker) |
 | Audio | WAV, 16 kHz, 16-bit, mono |
-| Annotation | 480 segments with transcripts, speaker, topic and event tags |
+| Annotation | 714 segments with transcripts, speaker, topic and event tags |
 
 ## Structure
 

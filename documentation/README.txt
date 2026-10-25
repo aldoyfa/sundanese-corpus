@@ -84,7 +84,7 @@ assigned. Language_Background is left empty.
 
 6. ANNOTATION (annotation/annotation.csv)
 -----------------------------------------
-Each row is one segment of about 15 seconds, cut at pauses.
+Each row is one segment of about 10 seconds (3-15 s), cut at pauses.
 
 segment_id, file, speaker, gender, language_dialect, topic, start, end
 (seconds), transcript, transcript_norm, events, code_switch (Y/N)

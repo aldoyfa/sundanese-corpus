@@ -54,6 +54,7 @@ consent/consent_form/       signed consent forms (personal details redacted)
 documentation/README.txt    this file
 documentation/qc_report.csv quality control results
 documentation/IF4071-...pdf assignment specification
+documentation/G06_Laporan_01.pdf  project report (group 6)
 
 File naming: SXX_TYY_NNN.wav
   SXX = speaker, TYY = topic, NNN = file number for that speaker and topic

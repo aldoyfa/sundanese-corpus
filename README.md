@@ -23,6 +23,7 @@ annotation/annotation.csv    one row per speech segment
 consent/consent_form/        signed consent forms (personal details redacted)
 documentation/README.txt     full corpus documentation
 documentation/qc_report.csv  quality control results
+documentation/G06_Laporan_01.pdf  project report
 ```
 
 See [documentation/README.txt](documentation/README.txt) for file naming, column
